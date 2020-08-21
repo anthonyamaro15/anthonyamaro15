@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Anthony [website] 👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.anthonyamaro.dev/)](https://www.anthonyamaro.dev/)
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://mariofernandez.dev/)
+
 
 
 ### Spotify Playing 🎧
