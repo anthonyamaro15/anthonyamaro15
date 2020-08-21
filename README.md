@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Hi there, I'm Mario - aka [Diddleslip][website] 👋
+### Hi there, I'm Anthony [website] 👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://mariofernandez.dev/)
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Diddleslip" />
+<img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyamaro15" />
 
 
 
