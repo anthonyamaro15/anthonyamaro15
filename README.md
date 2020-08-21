@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="mariofernandez.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mariodev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anthony Amaro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anthonyamaro15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Didleslip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyamaro15" />
+<img align="left" alt="Anthony Amaro Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyamaro15" />
 
 
 
