@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on two different projects one with a team of five developers and one UI Designer. Another project with a Data Science member.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 I'm a Full Stack Web Developer passionate on learning new techlonogies, I enjoy solving problems and building amazing projects!.
+- 🔭 I’m currently working on two projects one with a team of five developers and one UI Designer. Another project with a Data Science member.
+- 🌱 I’m currently learning TypeScript MondgoDB.
+- 👯 I’m looking to collaborate with anyone interested building amazing projects!.
+
 - 📫 How to reach me: ..
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
