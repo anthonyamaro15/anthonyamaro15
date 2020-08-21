@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!.
-- 🔭 I’m currently working on two projects one with a team of five developers and one UI Designer. Another project with a Data Science member.
+- 🔭 I’m currently working on two projects, one with a team of five developers and one UI Designer. Another project with a Data Science member.
 - 🌱 I’m currently learning TypeScript MondgoDB.
 - 👯 I’m looking to collaborate with anyone interested building amazing projects!.
 
