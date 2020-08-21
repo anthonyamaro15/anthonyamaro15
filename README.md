@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Hi there, I'm Anthony [website] 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.anthonyamaro.dev/)]([website])
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.anthonyamaro.dev/)](https://www.anthonyamaro.dev/)
 
 
 
