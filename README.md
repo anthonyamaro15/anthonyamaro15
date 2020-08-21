@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mariofernandez.dev/)](https://mariofernandez.dev/)
 
-## I'm a Gamer, Friend, Developer, and Trumpet player!
-- 🔭 I’m currently working on a project called [Eco-Soap Bank][EcoSoap]!
-- 🌱 I’m currently learning more in-depth Python, GraphQL, ApolloClient, and life. 🤣
-- 👯 I’m looking to collaborate with other developers!
-- 🥅 2020 Goals: Learning better interview skills, and improving upon my previous projects.
-- ⚡ Fun fact: I love to play the trumpet and saxophone.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
