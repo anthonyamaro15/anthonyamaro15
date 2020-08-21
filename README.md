@@ -53,7 +53,5 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://mariofernandez.dev/
-[instagram]: https://instagram.com/marioo.fernandez
-[linkedin]: https://www.linkedin.com/in/mariodev/
-[EcoSoap]: https://github.com/EcoSoapBank
+[website]: https://www.anthonyamaro.dev/
+[linkedin]: https://www.linkedin.com/in/anthonyamaro15/
