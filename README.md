@@ -3,12 +3,12 @@
 
 Here are some ideas to get you started:
 
+- #🌱 I’m currently learning C#
 - 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!.
 - 🔭 I’m currently working on three projects, one with a team of five developers and one UI Designer. Another project with a Data Science member.
 - I'm currently working on a Full Stack Application on my own with TypeScript, React JS, Node JS and PostgreSQL.
 - I'm currenlty solving at least one problem everyday in Hackerrank and leetcode to sharpen my problem solving skills.
-- 🌱 I’m currently learning TypeScript.
-- Next on my list to learn is C# and MongoDB.
+
 - 👯 I’m looking to collaborate with anyone interested in building amazing projects!.
 
 <!-- 
