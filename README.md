@@ -10,11 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C#.
 - 👯 I’m looking to collaborate with anyone interested in building amazing projects!.
 
-<!-- 
-### Hi there, I'm Anthony [website] 👋
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.anthonyamaro.dev/)](https://www.anthonyamaro.dev/)
--->
-
 
 ### Connect with me:
 
