@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!.
 - 🔭 I’m currently working on three projects, one with a team of five developers and one UI Designer. Another project with a Data Science member.
 - I'm currently working on a Full Stack Application on my own with TypeScript, React JS, Node JS and PostgreSQL.
@@ -13,7 +12,6 @@
 
 [<img align="left" alt="Anthony Amaro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="anthonyamaro15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -44,14 +42,10 @@
 
 <br />
 <br />
-
 ---
-
 <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="Anthony Amaro Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyamaro15" />
-
-
 
 [website]: https://www.anthonyamaro.dev/
 [linkedin]: https://www.linkedin.com/in/anthonyamaro15/
