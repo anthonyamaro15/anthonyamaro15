@@ -4,12 +4,11 @@
 - 🔭 I’m currently working on three projects, one with a team of five developers and one UI Designer. Another project with a Data Science member.
 - I'm currently working on a Full Stack Application on my own with TypeScript, React JS, Node JS and PostgreSQL.
 - I'm currenlty solving at least one problem everyday in Hackerrank and leetcode to sharpen my problem solving skills.
-- I'm currently learning Kotlin for backend Development
+- I'm currently learning Kotlin and gRPC for backend Development
 - 👯 I’m looking to collaborate with anyone interested in building amazing projects.
 
 
 ### Connect with me:
-
 [<img align="left" alt="Anthony Amaro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="anthonyamaro15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
