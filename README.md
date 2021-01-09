@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!.
-- 🔭 I’m currently working on project with a team of 2, one data scientist and a UI/UX designer.
-- I'm currenlty solving at least one problem everyday in Hackerrank and leetcode to sharpen my problem solving skills.
-- 👯 I’m looking to collaborate with anyone interested in building amazing projects.
+- 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!..
+- 🔭 I’m currently working on project with a team of 2, one data scientist and a UI/UX designer..
+- I'm currenlty solving at least one problem everyday in Hackerrank and leetcode to sharpen my problem solving skills..
+- 👯 I’m looking to collaborate with anyone interested in building amazing projects..
 
 
 ### Connect with me:
