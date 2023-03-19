@@ -2,7 +2,7 @@
 
 - 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!.
 - 🔭 I’m currently working as a Software Engineer at Blue Raster. 
-- Technologies I want to learn are AWS, Golang.
+- Technologies I want to learn are Rust.
 - 👯 I’m looking to collaborate with anyone interested in building amazing projects.
 
 
