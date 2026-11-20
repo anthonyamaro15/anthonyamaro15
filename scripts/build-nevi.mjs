@@ -93,12 +93,14 @@ function about(d) {
     list('write APIs and services in Node and Python, deployed on AWS'),
     list('make terminal tools in Rust: a text editor and a file finder'),
     list('contribute to oxc, the Rust-based JavaScript toolchain'),
+    list('build AI tooling: MCP servers, skills, plugins and custom agents'),
     [],
     [['## what I know', 'h']],
     skill('languages', ['typescript', 'rust', 'python']),
     skill('frontend', ['react', 'next.js', 'redux', 'arcgis js api']),
     skill('backend', ['node', 'express', 'postgres', 'aws']),
-    skill('tools', ['neovim', 'git', 'claude code', 'codex']),
+    skill('ai', ['claude code', 'codex', 'grok', 'gemini', 'mcp']),
+    skill('tools', ['neovim', 'nevi', 'git']),
     [],
     [['## shipping', 'h']],
     project('nevi', 'terminal editor, Neovim meets Zed', d.nevi.version, `★ ${d.nevi.stars}`, 'y'),
@@ -158,7 +160,7 @@ function build(d) {
   const stars = d.nevi.stars + d.ff.stars;
   const cmd = ':e nevi/README.md';
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="about.md open in the Nevi editor. Anthony Amaro, software engineer at Blue Raster in Las Vegas. Builds mapping and web apps with React, Next.js and ArcGIS, APIs in Node and Python on AWS, and terminal tools in Rust. Knows TypeScript, Rust and Python, React, Next.js, Redux, ArcGIS, Node, Express, Postgres and AWS. Projects: Nevi ${d.nevi.version} with ${d.nevi.stars} stars, ff ${d.ff.version} with ${d.ff.stars} stars, ${d.oxcPrs} merged PRs in Oxc.">
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="about.md open in the Nevi editor. Anthony Amaro, software engineer at Blue Raster in Las Vegas. Builds mapping and web apps with React, Next.js and ArcGIS, APIs in Node and Python on AWS, and terminal tools in Rust. Builds AI tooling: MCP servers, skills, plugins and custom agents. Knows TypeScript, Rust and Python, React, Next.js, Redux, ArcGIS, Node, Express, Postgres, AWS, Claude Code, Codex, Grok and Gemini. Projects: Nevi ${d.nevi.version} with ${d.nevi.stars} stars, ff ${d.ff.version} with ${d.ff.stars} stars, ${d.oxcPrs} merged PRs in Oxc.">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 13px; fill: #c9d1d9; }
     .h { fill: #7ee7c7; font-weight: bold; } .k { fill: #79c0ff; } .y { fill: #e3b341; } .p { fill: #d2a8ff; }

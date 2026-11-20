@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./portrait.svg" width="420" alt="ASCII art portrait of Anthony Amaro, drawn from his GitHub avatar." />
-</p>
-
-<p align="center">
   <img src="./nevi.svg" width="100%" alt="about.md open in the Nevi editor: what Anthony does, the languages and tools he knows, and his projects Nevi, ff and his merged PRs in Oxc." />
 </p>
 
