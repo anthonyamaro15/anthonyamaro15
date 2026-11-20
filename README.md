@@ -1,44 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal running neofetch for Anthony Amaro, software engineer at Blue Raster. Rust terminal tools, merged PRs into Oxc, and live GitHub stats." />
+</p>
 
-- 💬 I'm a Full Stack Web Developer passionate on learning new technologies, I enjoy solving problems and building amazing projects!.
-- 🔭 I’m currently working as a Software Engineer at Blue Raster. 
-- 👯 I’m looking to collaborate with anyone interested in building amazing projects.
+<p align="center">
+  <a href="https://anthonyamaro.dev"><img src="https://img.shields.io/badge/anthonyamaro.dev-161b22?style=for-the-badge&logo=googlechrome&logoColor=7ee787" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logoColor=79c0ff" alt="LinkedIn" /></a>
+  <a href="https://github.com/oxc-project/oxc/pulls?q=is%3Apr+author%3Aanthonyamaro15+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aoxc-project%2Foxc%20is%3Apr%20is%3Amerged%20author%3Aanthonyamaro15&label=oxc%20merged%20PRs&style=for-the-badge&logo=rust&logoColor=white&labelColor=161b22&color=8957e5" alt="Merged PRs into Oxc" /></a>
+</p>
 
-
-### Connect with me:
-[<img align="left" alt="Anthony Amaro" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anthonyamaro15 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="redis" width="35px" src="https://www.nditech.org/sites/default/files/styles/small_photo/public/redis-logo.png?itok=LrULOkWT" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="60px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_bf0fb4cb7fe948c42f37ded73895638f/salesforce-heroku.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
----
-<summary>:zap: Github Stats</summary>
-
-<img align="left" alt="Anthony Amaro Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyamaro15" />
-
-[website]: https://www.anthonyamaro.dev/
-[linkedin]: https://www.linkedin.com/in/anthonyamaro15/
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonyamaro15/anthonyamaro15/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonyamaro15/anthonyamaro15/output/github-snake.svg" />
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/anthonyamaro15/anthonyamaro15/output/github-snake.svg" />
+</picture>
