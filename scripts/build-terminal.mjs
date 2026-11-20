@@ -101,7 +101,7 @@ function build(d) {
     ['location', 'las vegas, nv'],
     ['uptime', uptime()],
     ['editor', 'neovim, nevi'],
-    ['terminal', 'Rex @superlogical'],
+    ['terminal', 'rex'],
     ['langs', 'typescript, rust, python'],
     ['stack', 'react, next.js, node, aws'],
     ['ai', 'claude code, codex'],
