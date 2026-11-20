@@ -1,0 +1,39 @@
+name: refresh nevi card
+
+on:
+  schedule:
+    - cron: "17 13 * * *" # daily, 5:17am Las Vegas time
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ["scripts/build-nevi.mjs"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build nevi.svg
+        run: node scripts/build-nevi.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet nevi.svg; then
+            echo "nevi.svg unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add nevi.svg
+          git commit -m "chore: refresh nevi stats"
+          git push
